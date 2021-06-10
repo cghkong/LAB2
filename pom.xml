@@ -30,18 +30,4 @@
   <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
-  <dependencyManagement>
-  	<dependencies>
-  		<dependency>
-  			<groupId>org.junit.jupiter</groupId>
-  			<artifactId>junit-jupiter-api</artifactId>
-  			<version>5.5.1</version>
-  		</dependency>
-  		<dependency>
-  			<groupId>javax.json</groupId>
-  			<artifactId>javax.json-api</artifactId>
-  			<version>1.0</version>
-  		</dependency>
-  	</dependencies>
-  </dependencyManagement>
 </project>
