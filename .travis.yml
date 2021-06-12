@@ -1,6 +1,0 @@
-language:  java
-
-jdk:
-　- oraclejdk11
- 
-install:  mvn  install
