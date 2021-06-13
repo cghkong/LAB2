@@ -1,4 +1,5 @@
-import P2.*;
+package P2;
+
 import static org.junit.Assert.*;
 
 import org.junit.Test;
@@ -6,7 +7,7 @@ import org.junit.Test;
 public class FriendshipGraphTest {
 
     /**
-     * esstensial Network Test
+     * essential Network Test
      */
     @Test
     public void teste1() {
@@ -34,7 +35,7 @@ public class FriendshipGraphTest {
     }
 
     /**
-     * flexible Test
+     * complexible Test,
      */
     @Test
     public void testf2() {
